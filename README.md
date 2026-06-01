@@ -51,9 +51,8 @@ Plain-text citation:
 
 S. S. Ali *et al.*, "A Wildlife Camera Trap Dataset for Vulnerable Houbara Bustard Adult, Chick, and Egg Detection," *2025 IEEE International Conference on Image Processing Workshops (ICIPW)*, Anchorage, AK, USA, 2025, pp. 416--421, doi: 10.1109/ICIPW68931.2025.11386269.
 
-## Dataset Repository
-
-GitHub: https://github.com/sadaf-ali/HBCE
+## Dataset and Codes
+Kindly sen an email to: iit.sadaf@gmail.com or syed.ali@ku.ac.ae
 
 ## Reference
 
